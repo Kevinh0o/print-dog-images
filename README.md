@@ -1,7 +1,7 @@
 # Print Dog Images
 Aplicativo que interage com "Dog API"" e mostra para o usuário imagens aleatórias de cachorros.
 
-## Tecnologias
+### Tecnologias
 <ul>
   <li> ReactJS </ li>
 </ul>
